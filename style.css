@@ -7,16 +7,18 @@ body{margin: 0;
   }
   body.dark-mode {
     background-color: #121212;
-    color:white}
-img{width:250px;
-height:300px;}
+    color:white}   
+img{width:600px;
+height:600px;
+border-radius:50px ;
+}
 h3{background-color: rgb(165, 115, 170);
 font-size:medium;
 word-spacing:6px ;}
 h4{background-color: rgb(165, 115, 170);
 font-size: medium;
 word-spacing:6px;}
-.switch-container{text-align: center;
+.switch-container{text-align:left;
 }
 .switch{position: relative;
 display: inline-block;
@@ -52,4 +54,13 @@ height: 0;}
             font-size: 1.2em;
             vertical-align: middle;
           }
+nav{text-indent:1000px ;
+word-spacing:50px ;
+border: #b413ee;}   
+.homepage{text-indent:10px
+   ;text-align:center;
+   display: flex;
+   
+}  
+     
           
